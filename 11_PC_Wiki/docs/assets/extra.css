@@ -1,0 +1,20 @@
+:root {
+  --fotf-card-border: rgba(92, 82, 64, 0.18);
+}
+
+.md-typeset h1 {
+  font-weight: 650;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.86rem;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 6px;
+}
+
+.md-typeset blockquote {
+  border-left-color: #a46a16;
+}

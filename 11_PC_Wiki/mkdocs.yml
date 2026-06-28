@@ -1,0 +1,44 @@
+site_name: Fragments of the Fallen Player Wiki
+site_description: Player-facing campaign wiki for Fragments of the Fallen.
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/extra.css
+
+nav:
+  - Home: index.md
+  - Story So Far: story_so_far.md
+  - Party: party.md
+  - Known NPCs: known_npcs.md
+  - Known Locations: known_locations.md
+  - Known Items: known_items.md
+  - Open Questions: open_questions.md
+  - Session Recaps:
+      - Session 001: session_recaps/session_001.md
+      - Session 002: session_recaps/session_002.md
+      - Session 003: session_recaps/session_003.md
