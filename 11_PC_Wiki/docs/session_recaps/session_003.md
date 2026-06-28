@@ -44,10 +44,11 @@ That is where the session ended.
 - The third black-gold shard from the attic hoard.
 - The fourth black-gold shard from the basement cell area.
 - The coin inlay used to open the hidden bookshelf.
-- A strange blackened copper coin.
+- A strange blackened copper coin, now confirmed as a Resonant Remnant.
 - Several bent old keys.
 - Two potions of healing.
-- Small valuables from Oren's room, including coins, cufflinks, and a fine writing set.
+- 547 gp worth of gold and sellable valuables from the attic hoard and Oren's study.
+- Party gold and sellable valuables total after Session 3: 579 gp.
 - Useful basement supplies such as rope, chalk, a pry bar, and lantern materials.
 - Bag of Holding.
 
