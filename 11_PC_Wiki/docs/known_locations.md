@@ -1,6 +1,6 @@
 # Known Locations
 
-## Act 1 - Trust And The First Fragment
+## Act 1 - The Vaunthel Commission
 
 ### Arc 1 - Silent Coin Tavern
 

@@ -1,6 +1,6 @@
 # Story So Far
 
-## Act 1 - Trust And The First Fragment
+## Act 1 - The Vaunthel Commission
 
 The party's first arc began with an invitation to Everlund and a strange abandoned tavern in the Moonwood. Elaris Vaunthel asked the party to investigate the Silent Coin Tavern, a place where ordinary life had started behaving incorrectly.
 
