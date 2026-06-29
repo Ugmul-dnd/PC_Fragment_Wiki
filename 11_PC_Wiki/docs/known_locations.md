@@ -1,22 +1,26 @@
 # Known Locations
 
-## Everlund
+## Act 1 - Trust And The First Fragment
+
+### Arc 1 - Silent Coin Tavern
+
+#### Everlund
 
 The city where the party met Elaris Vaunthel and received the first mission of the campaign.
 
-## Moongleam Tower
+#### Moongleam Tower
 
 The Everlund location connected to Elaris. The party received lodging there before leaving for the Silent Coin Tavern.
 
-## The Moonwood Road
+#### The Moonwood Road
 
 The route north toward the Silent Coin Tavern. The party encountered unnatural wolf behavior during the journey.
 
-## Roadside Clearing
+#### Roadside Clearing
 
 A familiar stopping place for Tovin that became the site of the party's first fight together. Wolves circled the clearing in a strange territorial pattern.
 
-## Silent Coin Tavern
+#### Silent Coin Tavern
 
 An abandoned roadside tavern in the Moonwood. It appears aware, rule-bound, and dangerous. Once the party entered, the outside world vanished from sight and sound.
 

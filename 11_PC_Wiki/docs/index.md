@@ -12,7 +12,6 @@ This wiki is here to help the party remember the story, people, places, clues, a
 | [Party](party.md) | Current player characters. |
 | [Known NPCs](known_npcs.md) | People and figures the party has met or heard about. |
 | [Known Locations](known_locations.md) | Places the party has visited or learned about. |
-| [Known Items](known_items.md) | Notable items, supplies, and strange objects. |
 | [Open Questions](open_questions.md) | Mysteries the party may want to follow up on. |
 | [Session Recaps](session_recaps/session_001.md) | Session-by-session memory aid. |
 
