@@ -2,6 +2,13 @@
 
 ## Act 1 - The Vaunthel Commission
 
+<details class="map-expander">
+<summary><img src="../assets/maps/Northern_Reaches_Player_Map_Arcs_1-6.png" alt="Act 1 Northern Reaches map icon" class="map-icon" /> Act 1 Map - Northern Reaches</summary>
+<a href="../assets/maps/Northern_Reaches_Player_Map_Arcs_1-6.png">
+  <img src="../assets/maps/Northern_Reaches_Player_Map_Arcs_1-6.png" alt="Act 1 Northern Reaches player map" class="map-full" />
+</a>
+</details>
+
 ### Arc 1 - Silent Coin Tavern
 
 #### Everlund
