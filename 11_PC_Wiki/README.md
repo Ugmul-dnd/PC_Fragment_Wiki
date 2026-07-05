@@ -6,14 +6,25 @@ It should contain only what the players know, have seen, have been told, or can 
 
 ## Local Preview
 
-From this folder:
+Double-click:
 
-```powershell
-pip install -r requirements.txt
-mkdocs serve
+- `run_pc_wiki.bat`
+
+The preview opens at `http://127.0.0.1:8001`. The batch file creates and uses a shared Python environment outside the campaign folder:
+
+```text
+%LOCALAPPDATA%\Fragments_of_the_Fallen_PC_Wiki\.venv
 ```
 
-Then open the local preview URL MkDocs prints.
+To build a static local copy without adding extra generated files to this folder, double-click:
+
+- `build_pc_wiki.bat`
+
+The built site is saved outside the campaign folder:
+
+```text
+%LOCALAPPDATA%\Fragments_of_the_Fallen_PC_Wiki\site
+```
 
 ## Cloudflare Pages
 

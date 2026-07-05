@@ -8,6 +8,8 @@
 
 The city where the party met Elaris Vaunthel and received the first mission of the campaign.
 
+Known market notes: [Everlund Shops](everlund_shops.md)
+
 #### Moongleam Tower
 
 The Everlund location connected to Elaris. The party received lodging there before leaving for the Silent Coin Tavern.

@@ -18,3 +18,60 @@
 .md-typeset blockquote {
   border-left-color: #a46a16;
 }
+
+.md-typeset .shop-block {
+  margin: 0.75rem 0 1.35rem;
+}
+
+.md-typeset .shop-meta {
+  border: 1px solid var(--fotf-card-border);
+  border-radius: 6px;
+  display: grid;
+  gap: 0.18rem;
+  padding: 0.55rem 0.7rem;
+}
+
+.md-typeset .shop-meta p {
+  margin: 0;
+}
+
+.md-typeset .shop-inventory {
+  display: grid;
+  gap: 0.48rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(17rem, 100%), 1fr));
+  margin-top: 0.55rem;
+}
+
+.md-typeset .shop-item {
+  border: 1px solid var(--fotf-card-border);
+  border-radius: 6px;
+  padding: 0.5rem 0.62rem;
+}
+
+.md-typeset .shop-item-title {
+  display: block;
+  font-size: 0.86rem;
+  line-height: 1.18;
+}
+
+.md-typeset .shop-item p {
+  font-size: 0.76rem;
+  line-height: 1.32;
+  margin: 0.3rem 0 0;
+}
+
+.md-typeset .item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.18rem;
+  margin-top: 0.24rem;
+}
+
+.md-typeset .item-meta span {
+  background: rgba(63, 81, 181, 0.08);
+  border: 1px solid rgba(63, 81, 181, 0.12);
+  border-radius: 999px;
+  font-size: 0.66rem;
+  line-height: 1;
+  padding: 0.15rem 0.34rem;
+}
