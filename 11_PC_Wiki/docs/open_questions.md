@@ -4,19 +4,17 @@ These are player-facing mysteries the party may want to remember.
 
 ## Silent Coin Tavern
 
-* Can the party defeat the guardian around the Coiled Coin?
-* Will the tavern release the party if the guardian falls?
-* Can Tovin, the horses, and the road be reached again?
-* What was the old altar beneath the tavern built to do?
-* Can the house's own words and rules still be used against it?
+* What remains beneath the collapsed tavern?
+* What exactly was the old altar beneath the tavern built to do?
+* Did removing the Coiled Coin fully stabilize the place, or only quiet it for now?
 
 ## The Coiled Coin
 
 * What exactly is the Coiled Coin?
 * Why did it turn ownership into obsession?
 * Why did the old altar split it into four pieces?
-* What happens now that it is whole?
-* Does the relic want to be free, kept, healed, or something else?
+* What will Elaris learn from studying it?
+* Was the relic afraid before it was placed in the case?
 
 ## Elaris's Mission
 
@@ -24,3 +22,9 @@ These are player-facing mysteries the party may want to remember.
 * Why did he choose this party?
 * How does the Silent Coin Tavern connect to the prophecy he shared?
 
+## Redmark Road
+
+* Who is attacking caravans near Brindleford?
+* Why are gnoll tracks and disciplined boot tracks both appearing near the same roads?
+* What do the red cloth markers mean?
+* What is moving around the party's camp?
