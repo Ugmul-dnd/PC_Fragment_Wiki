@@ -18,6 +18,4 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The party is in the basement of the Silent Coin Tavern. The four black-gold shards have reunited into the Coiled Coin, but the house and the old altar have reacted violently. A guardian has formed around the relic, and the next session begins with the fight for the Coiled Coin.
-
-## 
+The party is on the contested road toward Brindleford, fighting gnolls and giant hyenas around an overturned wagon. They spotted the crude ambush before entering its kill zone and were not surprised. Two gnoll warriors and one giant hyena are down, another hyena is badly wounded, and the battle remains in active initiative.

@@ -91,3 +91,17 @@ That night, the party camped in old ruins off the road. A gnoll attack struck th
 Later in the night, movement began closing in around the camp from several directions. The sounds were not hungry or chaotic.
 
 They were coordinated.
+
+#### The Red Banner Patrol
+
+The shapes around the camp were five hobgoblin soldiers and two captains of the Red Banner. The party tried to explain that they were travelers bound for Brindleford and had already fought gnolls, but the captains declared the road Red Banner territory. They called Brindleford a town under siege, accused the party of bringing aid, and demanded the party's weapons.
+
+The party refused. The hobgoblins fought with formation, command, and poisoned arrows, but the party broke their line and defeated the entire patrol before either captain could escape. After recovering about 60 gp in valuables and usable Red Banner gear, the party completed its interrupted long rest.
+
+#### The Wagon Trap
+
+At dawn, the party continued toward Brindleford. Near mid-morning, they found an overturned wagon, a dead draft animal, blood, red cloth, alarm wires, and a crude pit in a narrow road between steep brush-covered slopes.
+
+The party recognized the ambush before entering the kill zone. Bruce disarmed an alarm line, Nugget scouted from the air, and the group moved onto the slope before gnolls and giant hyenas burst from hiding.
+
+The session ended with the fight still underway. Two gnoll warriors and one giant hyena had fallen, another hyena was badly wounded, and the remaining pack still held the high ground between the party and Brindleford.

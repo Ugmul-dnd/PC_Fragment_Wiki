@@ -1,6 +1,6 @@
 # Party
 
-Current party level: **3**
+Current party level: **4**
 
 | Player | Character | Class |
 |---|---|---|
@@ -13,9 +13,10 @@ Current party level: **3**
 ## Party Notes
 
 - The group was invited to Everlund by Elaris Vaunthel.
-- The party accepted the Silent Coin Tavern investigation.
-- The party is currently trapped inside the Silent Coin Tavern.
-- The party has reunited the four black-gold shards into the Coiled Coin, but the house has not released it.
+- The party completed the Silent Coin Tavern investigation and delivered the contained Coiled Coin to Elaris.
+- The party is traveling toward Brindleford to investigate Redmark Keep.
+- The party defeated a Red Banner patrol that tried to arrest them on the road.
+- The party is currently fighting through a gnoll ambush around an overturned wagon.
 
 ## Familiar And Companions
 

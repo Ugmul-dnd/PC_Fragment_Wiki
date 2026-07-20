@@ -24,7 +24,9 @@ These are player-facing mysteries the party may want to remember.
 
 ## Redmark Road
 
-* Who is attacking caravans near Brindleford?
-* Why are gnoll tracks and disciplined boot tracks both appearing near the same roads?
+* What does the Red Banner want from Redmark Keep and the territory around it?
+* How complete is the Red Banner's siege of Brindleford?
+* Can the party reach Brindleford before another patrol carries word of them to the keep?
+* Why are gnolls and the Red Banner both fighting for the same roads?
 * What do the red cloth markers mean?
-* What is moving around the party's camp?
+* How many more gnoll ambush sites lie between the party and town?
