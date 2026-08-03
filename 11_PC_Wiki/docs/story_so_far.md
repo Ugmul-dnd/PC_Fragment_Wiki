@@ -105,3 +105,17 @@ At dawn, the party continued toward Brindleford. Near mid-morning, they found an
 The party recognized the ambush before entering the kill zone. Bruce disarmed an alarm line, Nugget scouted from the air, and the group moved onto the slope before gnolls and giant hyenas burst from hiding.
 
 The session ended with the fight still underway. Two gnoll warriors and one giant hyena had fallen, another hyena was badly wounded, and the remaining pack still held the high ground between the party and Brindleford.
+
+#### Through the Closing Gate
+
+Leonidus Deneith joined the fight at the overturned wagon, helping the party destroy the remaining gnoll pack. He was traveling north in search of his brother, Rhaegar Phiarlan.
+
+The party negotiated passage through a fortified Red Banner checkpoint, learning that Rhaegar had entered Brindleford about two days earlier and that a higher Red Banner authority called **Command** was coming.
+
+Outside Brindleford, the road opened onto a battlefield. The party fought through drainage ditches and broken wagon lanes, rescued the trapped roadwarden Mara Vell from a collapsed shrine, and raced for the town while gnolls and hobgoblins fought around them.
+
+Bruce O'Mordha was struck down during the final crossing and died outside Brindleford's closing gate.
+
+Inside town, Mira Fenwick, Captain Orven Hale, and Old Brenn explained the routes to Redmark Keep. The party chose the western Hunter Trail: a longer, harder ridge path that may allow them to observe the keep and its old runoff systems before selecting an entrance.
+
+Leonidus found Rhaegar waiting at The Bent Wheel. The brothers reunited, and the party completed a safe long rest before the next stage of the Redmark approach.

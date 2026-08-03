@@ -26,7 +26,15 @@ These are player-facing mysteries the party may want to remember.
 
 * What does the Red Banner want from Redmark Keep and the territory around it?
 * How complete is the Red Banner's siege of Brindleford?
-* Can the party reach Brindleford before another patrol carries word of them to the keep?
 * Why are gnolls and the Red Banner both fighting for the same roads?
 * What do the red cloth markers mean?
-* How many more gnoll ambush sites lie between the party and town?
+* Who or what is the Red Banner authority called **Command**?
+* Why are both forces fighting for Redmark Keep itself?
+* Are any of Redmark's old runoff channels or forgotten lower passages still usable?
+* What will the party see from the Hunter Trail before reaching the keep?
+
+## The Deneith Brothers
+
+* Why did Seraphine summon Leonidus and Rhaegar to the Northern Reaches?
+* Where is she now?
+* Why did she erase nearly every trace of her life before disappearing?

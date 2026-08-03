@@ -18,4 +18,4 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The party is on the contested road toward Brindleford, fighting gnolls and giant hyenas around an overturned wagon. They spotted the crude ambush before entering its kill zone and were not surprised. Two gnoll warriors and one giant hyena are down, another hyena is badly wounded, and the battle remains in active initiative.
+The party is resting at The Bent Wheel in Brindleford after surviving the battlefield outside town. They rescued Roadwarden Mara Vell, lost Bruce O'Mordha during the final gate crossing, reunited Leonidus with Rhaegar, and chose the Hunter Trail for the approach to Redmark Keep. The next session begins with departure for the western ridge.
