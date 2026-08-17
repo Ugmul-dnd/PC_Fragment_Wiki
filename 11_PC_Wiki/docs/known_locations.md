@@ -38,7 +38,7 @@ A battered settlement near Redmark Keep. The party reached it after crossing an 
 
 The party found shelter and a safe long rest at **The Bent Wheel**. Local contacts described three approaches to Redmark Keep: the exposed Old North Road, the concealed Field Ditch Route, and the western Hunter Trail.
 
-The party chose the Hunter Trail.
+The party chose the Hunter Trail and successfully crossed it. They found an abandoned windmill on the ridge, then used the high ground to locate Redmark's forgotten Drainage Culvert.
 
 ## The Bent Wheel
 
@@ -46,10 +46,16 @@ A quiet Brindleford inn run by locals who have watched the siege tighten around 
 
 ## Hunter Trail
 
-An old path climbing the western ridge toward Redmark Keep. It is longer and physically harder than the known road approaches, but local reports suggest neither hostile force controls it. The ridge may provide a view of Redmark before the party commits to an entrance.
+An old path climbing the western ridge toward Redmark Keep. The party crossed its thorn ledges, loose shale, and falling-stone hazards, then fought three ogres attacking an abandoned windmill. From the ridge, they observed Redmark's western defenses and located the old runoff cut.
+
+## Redmark Drainage Culvert
+
+A forgotten lower-water route beneath Redmark's western wall. The party opened its root-choked gate without alerting the surface patrols, crossed a sluice basin occupied by gelatinous cubes, and fought through a corpse-filled maintenance gallery.
+
+The lower works connect to Redmark's old command infrastructure. A three-valve pressure mechanism opened the route to a broken service rise leading upward into the keep.
 
 ## Redmark Keep
 
 The party's Arc 2 destination: an old ruin near Brindleford connected to caravan attacks, missing supplies, gnoll violence, and disciplined Red Banner activity.
 
-The party now knows the keep was once fully functional and had lower waterworks and runoff channels. Gnolls and the Red Banner are fighting for control around it, though the reason both forces value the ruin remains unclear.
+The party entered the keep through its forgotten Drainage Culvert, bypassing the guarded western gate. Red-gold energy grows stronger in the lower stonework, but the reason the Red Banner and gnolls value the ruin remains unclear.

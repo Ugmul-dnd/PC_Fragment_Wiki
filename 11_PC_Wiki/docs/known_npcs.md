@@ -11,6 +11,7 @@
 |Captain Orven Hale|Brindleford's tired but disciplined watch captain. He confirmed the Red Banner's road control, the gnoll presence in the low ground, and the risks of each approach.|
 |Old Brenn|An elderly local at The Bent Wheel who knows the western ridge and Redmark's history. He recommended the Hunter Trail and remembered the keep's old runoff systems.|
 |Tessa Marran|Brindleford's shrine-healer. Her shrine supplied the party with three healer's kits before the Redmark approach.|
+|Rescued Redmark Scavenger|A frightened scavenger rescued from an ogre-battered windmill on the Hunter Trail. He admitted stealing a Resonant Remnant from an abandoned Redmark office, described frequent patrols inside the keep, and returned toward Brindleford after the party saved him.|
 
 ## Figures Encountered In The Silent Coin Tavern
 
@@ -29,4 +30,3 @@
 |Dove|Gentle but stubborn.|
 |Bramble|Strong and dependable.|
 |Cinder|Alert and quick to sense danger.|
-

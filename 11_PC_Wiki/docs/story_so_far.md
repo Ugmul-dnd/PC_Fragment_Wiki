@@ -119,3 +119,15 @@ Bruce O'Mordha was struck down during the final crossing and died outside Brindl
 Inside town, Mira Fenwick, Captain Orven Hale, and Old Brenn explained the routes to Redmark Keep. The party chose the western Hunter Trail: a longer, harder ridge path that may allow them to observe the keep and its old runoff systems before selecting an entrance.
 
 Leonidus found Rhaegar waiting at The Bent Wheel. The brothers reunited, and the party completed a safe long rest before the next stage of the Redmark approach.
+
+#### Beneath Redmark
+
+Rhaegar joined the party at The Bent Wheel, bringing the active group to five. The party climbed the Hunter Trail, defeated three ogres attacking an abandoned windmill, and rescued a scavenger who had stolen a red-glass Resonant Remnant from Redmark Keep.
+
+From the western ridge, the party identified the old runoff cut beneath Redmark's guarded gate. Concealed by magic, they reached the forgotten Drainage Culvert and quietly forced its rusted entrance open.
+
+The culvert led through abandoned lower waterworks. The party destroyed gelatinous cubes in a scoured sluice basin and opened a sealed armory locker containing a +1 halberd, a Candle of the Deep, military salvage, and another Resonant Remnant.
+
+In the flooded maintenance gallery, ghouls, a ghast, and a carrion crawler attacked from among the old dead. The party survived the crawler's paralytic tentacles, defeated the creatures, and recovered Redmark payroll, relief supplies, tools, a maintenance key, and another piece of red-gold Resonant material.
+
+After a short rest, the party solved the three-valve pressure mechanism and opened the service gate. The session ended at a broken supply-lift rise beneath the keep, where red-gold light pulses through warm stone and heavier movement waits above.

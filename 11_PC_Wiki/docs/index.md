@@ -18,4 +18,4 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The party is resting at The Bent Wheel in Brindleford after surviving the battlefield outside town. They rescued Roadwarden Mara Vell, lost Bruce O'Mordha during the final gate crossing, reunited Leonidus with Rhaegar, and chose the Hunter Trail for the approach to Redmark Keep. The next session begins with departure for the western ridge.
+The five active companions have entered Redmark Keep through its forgotten Drainage Culvert. After clearing the lower waterworks and opening the Red-Rust Valve Chamber, they reached a broken service rise beneath the keep. Red-gold light pulses through the stone, and heavy movement waits in the halls above.
