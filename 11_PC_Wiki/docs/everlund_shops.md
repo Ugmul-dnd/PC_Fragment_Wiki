@@ -1,245 +1,84 @@
 # Everlund Shops
 
-Everlund has enough magic trade to be useful without feeling like an open catalog. Prices listed here are the public asking prices the party can see or learn by asking.
+Everlund has enough magic trade to be useful without feeling like an open catalog. These are the current public asking prices for the party's level-5 return. Stock is limited to the quantities shown.
 
-Players may try to haggle, barter, trade in useful goods, or talk with shopkeepers to learn whether they are keeping anything special behind the counter.
+Players may try to haggle, barter, trade useful goods, or talk with shopkeepers about harder-to-source pieces.
 
 ## Rauvin Road Relics
 
-<section class="shop-block" markdown>
-<div class="shop-meta" markdown>
 **Shopkeeper:** Meross Dhal  
-**Shop Type:** General adventuring magic, travel tools, minor protective charms  
-**Public Inventory:** Common utility items, travel magic, minor defensive tools, a few uncommon adventuring pieces.
-</div>
+**Specialty:** General adventuring magic, travel tools, and utility gear
 
-<div class="shop-inventory">
-  <article class="shop-item">
-    <strong class="shop-item-title">Cloak of Billowing</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A dramatic cloak that billows on command.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Pole of Collapsing</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A 10-foot pole that collapses for easy carrying.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Mystery Key</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A strange key with a tiny chance of opening a lock.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Orb of Direction</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous / Focus</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>An arcane focus that can point north.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Rope of Climbing</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A 60-foot rope that can move as commanded.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Immovable Rod</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Rod</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A rod that locks itself in place until released.</p>
-  </article>
-</div>
-</section>
+| Item | Rarity / Type | Price | Stock | Attunement | Description |
+|---|---|---:|---:|---|---|
+| Pole of Collapsing | Common Wondrous Item | 125 gp | 1 | No | A sturdy 10-foot pole that collapses to a compact rod. |
+| Orb of Direction | Common Wondrous Item / Focus | 125 gp | 1 | No | An arcane focus that always indicates north. |
+| Cloak of Billowing | Common Wondrous Item | 125 gp | 1 | No | A dramatic cloak that billows on command. |
+| Rope of Climbing | Uncommon Wondrous Item | 525 gp | 1 | No | A 60-foot rope that moves and knots itself on command. |
+| Immovable Rod | Uncommon Rod | 525 gp | 1 | No | A rod that locks itself firmly in place. |
+| Sending Stones | Uncommon Wondrous Item | 525 gp | 1 pair | No | A matched pair for brief long-distance communication. |
+| Potion of Climbing | Common Potion / Consumable | 50 gp | 4 | No | Gain a climbing speed for 1 hour. |
+| Feather Fall Scroll - 1st Level | Common Scroll / Consumable | 50 gp | 2 | No | A spell scroll that arrests a sudden fall. |
 
 ## Moongleam Reagents
 
-<section class="shop-block" markdown>
-<div class="shop-meta" markdown>
 **Shopkeeper:** Althaea Quillmere  
-**Shop Type:** Potions, scrolls, reagents, ritual components, spell-focused supplies  
-**Public Inventory:** Healing, movement, alchemical utility, ritual supplies, and limited scroll access.
-</div>
+**Specialty:** Potions, scrolls, reagents, and spell-focused supplies
 
-<div class="shop-inventory">
-  <article class="shop-item">
-    <strong class="shop-item-title">Potion of Healing</strong>
-    <p class="item-meta"><span>Common</span><span>Potion / Consumable</span><span>$50</span><span>Stock 8</span><span>No attunement</span></p>
-    <p>Drink to regain 2d4 + 2 hit points.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Potion of Climbing</strong>
-    <p class="item-meta"><span>Common</span><span>Potion / Consumable</span><span>$50</span><span>Stock 4</span><span>No attunement</span></p>
-    <p>Gain a climbing speed for 1 hour.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Antitoxin Bundle</strong>
-    <p class="item-meta"><span>Common</span><span>Alchemical Consumable</span><span>$50</span><span>Stock 4</span><span>No attunement</span></p>
-    <p>A sealed vial kit for poison-heavy travel.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Moonlit Chalk Set</strong>
-    <p class="item-meta"><span>Common</span><span>Utility Consumable</span><span>$50</span><span>Stock 5</span><span>No attunement</span></p>
-    <p>Pale chalk marks that show clearly in moonlight or dark stone.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Bless Scroll - 1st Level</strong>
-    <p class="item-meta"><span>Common</span><span>Scroll / Consumable</span><span>$50</span><span>Stock 2</span><span>No attunement</span></p>
-    <p>A low-level spell scroll selected by the DM.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Healing Word Scroll - 1st Level</strong>
-    <p class="item-meta"><span>Common</span><span>Scroll / Consumable</span><span>$50</span><span>Stock 2</span><span>No attunement</span></p>
-    <p>A low-level spell scroll selected by the DM.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Pass without Trace Scroll - 2nd Level</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Scroll / Consumable</span><span>$250</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A second-circle spell scroll selected by the DM.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Potion of Water Breathing</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Potion / Consumable</span><span>$230</span><span>Stock 2</span><span>No attunement</span></p>
-    <p>Breathe underwater for 24 hours.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Potion of Growth</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Potion / Consumable</span><span>$230</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Gain the enlarge effect for 10 minutes.</p>
-  </article>
-</div>
-</section>
+| Item | Rarity / Type | Price | Stock | Attunement | Description |
+|---|---|---:|---:|---|---|
+| Potion of Healing | Common Potion / Consumable | 50 gp | 10 | No | Drink to regain 2d4 + 2 hit points. |
+| Antitoxin Bundle | Common Alchemical Consumable | 50 gp | 5 | No | A sealed treatment vial for poison exposure. |
+| Moonlit Chalk Set | Common Utility Consumable | 50 gp | 6 | No | Pale marks remain readable in moonlight and on dark stone. |
+| Bless Scroll - 1st Level | Common Scroll / Consumable | 50 gp | 2 | No | A spell scroll carrying a blessing for three allies. |
+| Healing Word Scroll - 1st Level | Common Scroll / Consumable | 50 gp | 3 | No | A spell scroll for emergency healing at a distance. |
+| Detect Magic Scroll - 1st Level | Common Scroll / Consumable | 50 gp | 2 | No | A spell scroll for sensing nearby magic. |
+| Lesser Restoration Scroll - 2nd Level | Uncommon Scroll / Consumable | 250 gp | 1 | No | A spell scroll that can end a debilitating condition. |
+| Pass without Trace Scroll - 2nd Level | Uncommon Scroll / Consumable | 250 gp | 1 | No | A spell scroll that helps a group travel unseen. |
+| Potion of Water Breathing | Uncommon Potion / Consumable | 225 gp | 2 | No | Breathe underwater for 24 hours. |
+| Potion of Growth | Uncommon Potion / Consumable | 225 gp | 2 | No | Gain the enlarge effect for 10 minutes. |
 
 ## The Tempered Griffon
 
-<section class="shop-block" markdown>
-<div class="shop-meta" markdown>
 **Shopkeeper:** Berric Stonehand  
-**Shop Type:** Weapons, armor, shield charms, martial upgrades, battle salvage  
-**Public Inventory:** Ammunition, weapon curios, shield/armor support, and martial consumables.
-</div>
+**Specialty:** Weapons, armor, martial upgrades, and battle salvage
 
-<div class="shop-inventory">
-  <article class="shop-item">
-    <strong class="shop-item-title">Moon-Touched Sword</strong>
-    <p class="item-meta"><span>Common</span><span>Weapon</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A blade that sheds moonlight when drawn.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Unbreakable Arrow Bundle</strong>
-    <p class="item-meta"><span>Common</span><span>Ammunition</span><span>$50</span><span>Stock 2</span><span>No attunement</span></p>
-    <p>Three arrows that cannot be broken except by antimagic.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Veteran's Cane</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous / Weapon</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A walking cane that can become a longsword.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Clockwork Amulet</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Once per day, take a reliable attack roll result instead of rolling.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Ruby of the War Mage</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>Attunement</span></p>
-    <p>Attach to a weapon so it can function as a spellcasting focus.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Ammunition +1 Bundle</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Ammunition / Consumable</span><span>$230</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Ten +1 arrows or bolts sold as a sealed bundle.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Weapon +1 - Longsword</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Weapon</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A finely balanced longsword with a magical bonus to attack and damage.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Shield +1</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Shield</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A shield with a magical bonus to AC.</p>
-  </article>
-</div>
-</section>
+| Item | Rarity / Type | Price | Stock | Attunement | Description |
+|---|---|---:|---:|---|---|
+| Moon-Touched Sword | Common Weapon | 125 gp | 1 | No | A sword of an available type that sheds moonlight when drawn. |
+| Clockwork Amulet | Common Wondrous Item | 125 gp | 1 | No | Once per day, take a reliable attack result instead of rolling. |
+| Ruby of the War Mage | Common Wondrous Item | 125 gp | 1 | Yes | Makes a weapon function as a spellcasting focus. |
+| Walloping Ammunition Bundle | Common Ammunition / Consumable | 50 gp | 3 | No | Five enchanted arrows or bolts that can knock a target down. |
+| Silvered Ammunition Bundle | Common Ammunition / Consumable | 50 gp | 3 | No | Five silvered arrows or bolts for unusual foes. |
+| Weapon of Warning | Uncommon Weapon | 525 gp | 1 | Yes | A shortsword or longbow that warns its bearer of danger. |
+| Bracers of Archery | Uncommon Wondrous Item | 525 gp | 1 | Yes | Bracers that improve practiced bow work. |
+| Guardian Emblem | Uncommon Wondrous Item | 525 gp | 1 | Yes | A protective holy emblem that can turn aside a critical blow. |
+| Adamantine Armor | Uncommon Armor | 525 gp | 1 suit | No | Reinforced armor that protects against devastating strikes; final type depends on fit. |
+| Javelin of Lightning | Uncommon Weapon | 525 gp | 1 | No | A javelin that can become a line of lightning. |
 
 ## The Lantern Archivum
 
-<section class="shop-block" markdown>
-<div class="shop-meta" markdown>
 **Shopkeeper:** Sella Vey  
-**Shop Type:** Wards, divination, knowledge items, protective relics, anti-curse tools  
-**Public Inventory:** Protective charms, detection tools, lore aids, and haunting countermeasures.
-</div>
+**Specialty:** Wards, divination, knowledge items, and protective relics
 
-<div class="shop-inventory">
-  <article class="shop-item">
-    <strong class="shop-item-title">Tankard of Sobriety</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A stern tankard that prevents magical or mundane drunkenness.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Enduring Spellbook</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous / Book</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A spellbook resistant to fire and water damage.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Staff of Birdcalls</strong>
-    <p class="item-meta"><span>Common</span><span>Staff</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A carved staff that can create bird calls.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Wand of Conducting</strong>
-    <p class="item-meta"><span>Common</span><span>Wand</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A wand that creates harmless orchestral music.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Wand of Pyrotechnics</strong>
-    <p class="item-meta"><span>Common</span><span>Wand</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Creates harmless bursts of light and sparks.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Driftglobe</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A hovering light source that can shed magical light.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Lantern of Revealing</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>A lantern that can reveal invisible creatures and objects.</p>
-  </article>
-</div>
-</section>
+| Item | Rarity / Type | Price | Stock | Attunement | Description |
+|---|---|---:|---:|---|---|
+| Helm of Comprehending Languages | Uncommon Wondrous Item | 525 gp | 1 | No | A helm that helps its wearer understand written and spoken languages. |
+| Wand of Magic Detection | Uncommon Wand | 525 gp | 1 | No | A wand with limited uses of Detect Magic. |
+| Goggles of Night | Uncommon Wondrous Item | 525 gp | 1 | No | Grant darkvision or extend existing darkvision. |
+| Brooch of Shielding | Uncommon Wondrous Item | 525 gp | 1 | Yes | A brooch that protects against force damage and magical missiles. |
+| Staff of Birdcalls | Common Staff | 125 gp | 1 | No | A carved staff that reproduces bird calls. |
+| Wand of Pyrotechnics | Common Wand | 125 gp | 1 | No | Creates harmless bursts of colored light. |
+| Dust of Disappearance | Uncommon Wondrous Item / Consumable | 225 gp | 1 | No | A pouch of dust that briefly turns several creatures invisible. |
 
 ## The Quiet Ledger
 
-<section class="shop-block" markdown>
-<div class="shop-meta" markdown>
 **Shopkeeper:** Nym Vos  
-**Shop Type:** Broker, backroom consignments, rare items, trade-only stock  
-**Public Inventory:** Oddities, expensive uncommon items, and rumors of harder-to-source pieces.
-</div>
+**Specialty:** Broker, unusual consignments, and trade-only stock
 
-<div class="shop-inventory">
-  <article class="shop-item">
-    <strong class="shop-item-title">Charlatan's Die</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous</span><span>$120</span><span>Stock 1</span><span>Attunement</span></p>
-    <p>A die whose result can be controlled by the attuned bearer.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Orb of Time</strong>
-    <p class="item-meta"><span>Common</span><span>Wondrous / Focus</span><span>$120</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>An arcane focus that can tell the time of day.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Hat of Disguise</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>Attunement</span></p>
-    <p>Allows the wearer to cast Disguise Self.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Boots of Elvenkind</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Boots that make the wearer's steps silent.</p>
-  </article>
-  <article class="shop-item">
-    <strong class="shop-item-title">Gloves of Thievery</strong>
-    <p class="item-meta"><span>Uncommon</span><span>Wondrous</span><span>$520</span><span>Stock 1</span><span>No attunement</span></p>
-    <p>Fine gloves that aid delicate lock and trap work.</p>
-  </article>
-</div>
-</section>
+| Item | Rarity / Type | Price | Stock | Attunement | Description |
+|---|---|---:|---:|---|---|
+| Veteran's Cane | Common Wondrous Item / Weapon | 125 gp | 1 | No | A walking cane that can become a longsword. |
+| Hat of Disguise | Uncommon Wondrous Item | 525 gp | 1 | Yes | Allows the wearer to adopt magical disguises. |
+| Boots of Elvenkind | Uncommon Wondrous Item | 525 gp | 1 | No | Boots that make the wearer's steps nearly silent. |
+| Gloves of Thievery | Uncommon Wondrous Item | 525 gp | 1 | No | Fine gloves that aid lockwork and delicate manipulation. |
