@@ -1,6 +1,6 @@
 # Active Party
 
-Current party level: **4**
+Current party level: **5**
 
 Current active players: **5**
 
@@ -21,6 +21,20 @@ Current active players: **5**
 - Rhaegar joined the active party before it departed Brindleford.
 - The party entered Redmark through the forgotten Drainage Culvert and cleared the lower waterworks.
 - The party defeated a Red Banner patrol that tried to arrest them on the road.
+- The party defeated the Redmaw Tyrant, recovered the Redmark fragment, and delivered it to Elaris.
+- The party reached Waymark Crossing during an organized raid and saved the Lower Road and Supply Shed.
+
+## Current Notable Gear
+
+| Character | Known Item Updates |
+|---|---|
+| Wazeau deLierre | +1 Moon Sickle |
+| Kal Kholin | +1 Greatsword, Adamantine Plate, Elaris containment case |
+| Aiaia Dulcinea | +1 Longsword |
+| Leonidus Deneith | Adamantine Plate |
+| Rhaegar Phiarlan | Bracers of Archery |
+
+Party-held items also include a +1 Halberd, Candle of the Deep, and Bag of Holding. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight.
 
 ## Familiar And Companions
 

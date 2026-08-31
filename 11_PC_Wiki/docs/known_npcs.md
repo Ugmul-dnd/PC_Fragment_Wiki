@@ -4,8 +4,8 @@
 
 |Name|What The Party Knows|
 |-|-|
-|Elaris Vaunthel|A scholar in Everlund who invited the party to investigate strange places tied to old catastrophes, fallen stars, and possible relic fragments. He arranged lodging, supplies, and the carriage to the Silent Coin Tavern. After the party returned, he treated their injuries, received the sealed Coiled Coin for study, and sent them toward Brindleford and Redmark Keep.|
-|Tovin Reed|Elaris's cheerful carriage driver. He waited outside the Silent Coin Tavern for three days while the party experienced only a few hours inside. He survived the strange road-looping pressure and drove the party back to Moongleam Tower after the relic was sealed.|
+|Elaris Vaunthel|A scholar in Everlund who invited the party to investigate strange places tied to old catastrophes, fallen stars, and relic fragments. He now holds both the sealed Coiled Coin and the red-gold Redmark fragment for study. He believes the Farstep crisis may involve movement and space, issued the party another containment case, and promised Leonidus and Rhaegar that he would investigate Seraphine's disappearance through his contacts.|
+|Tovin Reed|Elaris's cheerful and capable carriage driver. He waited outside the Silent Coin Tavern for three days, later drove the party toward Waymark Crossing, and is currently guarding the bound raider captured at the Lower Road.|
 |Mara Vell|A Brindleford roadwarden rescued from beneath a collapsed shrine during the battlefield crossing. The party carried her through the closing gate.|
 |Mira Fenwick|The practical caravan-yard boss in Brindleford. She explained the three known approaches to Redmark Keep and directed the party to other local contacts.|
 |Captain Orven Hale|Brindleford's tired but disciplined watch captain. He confirmed the Red Banner's road control, the gnoll presence in the low ground, and the risks of each approach.|

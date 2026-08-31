@@ -131,3 +131,29 @@ The culvert led through abandoned lower waterworks. The party destroyed gelatino
 In the flooded maintenance gallery, ghouls, a ghast, and a carrion crawler attacked from among the old dead. The party survived the crawler's paralytic tentacles, defeated the creatures, and recovered Redmark payroll, relief supplies, tools, a maintenance key, and another piece of red-gold Resonant material.
 
 After a short rest, the party solved the three-valve pressure mechanism and opened the service gate. The session ended at a broken supply-lift rise beneath the keep, where red-gold light pulses through warm stone and heavier movement waits above.
+
+#### The War Altar
+
+The party climbed into Redmark's command vault and found the Redmaw Tyrant trying to tear a red-gold gemstone fragment out of a damaged War Altar. The altar reacted to the violence around it and pulled combatants toward the trapped relic, but the party defeated the warlord and recovered its Horn of Blasting.
+
+After a quick search produced 50 gp, the party freed the fragment. The old vault began to fail, and the group escaped through an eastern drainage route. Back in Everlund, Elaris accepted the relic and described Redmark's influence as force becoming conquest.
+
+The party reached level 5. During three days at Moongleam Tower, the three Resonant Remnants recovered around Redmark became a +1 Moon Sickle, an Adamantine Plate, and a +1 Longsword. The party purchased Bracers of Archery and a second Adamantine Plate. Kal and Leonidus each received one plate, and Kal took responsibility for a new containment case.
+
+### Arc 3 - Farstep Descent / Waymark Crossing
+
+#### The Road to Waymark
+
+Elaris's next lead pointed to the Farstep Works, a crystal mine whose routes had begun shifting and leading people astray. He warned that the suspected relic might distort movement and space: the party should move with purpose, pay attention, and avoid separating below ground.
+
+Tovin drove the party toward Waymark Crossing. Empty ore carts, injured travelers, hungry faces, and people abandoning the town showed that the mine's failure was already spreading beyond its tunnels.
+
+#### The White-Eye Raid
+
+The party arrived as Waymark's alarm bell began ringing. Raiders marked with ash-white paint around one eye were taking witnesses, demanding names, searching records and maps, and pushing toward the mine.
+
+At the Lower Road, the party saved pinned guards and townsfolk, recovered the containment case after the raiders tried to steal it, and left one unconscious captive bound with Tovin. The party then chose to defend the Supply Shed, where raiders were preparing oil, pitch, smoke, and demolition materials.
+
+The Horn of Blasting survived its first use but exploded on the second, badly injuring its user and destroying itself. The party still won the fight and saved the mine supplies.
+
+The group is now heading toward Mercy House on the road to the Farstep Works.

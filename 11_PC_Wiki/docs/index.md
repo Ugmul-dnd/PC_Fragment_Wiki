@@ -18,4 +18,4 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The five active companions have entered Redmark Keep through its forgotten Drainage Culvert. After clearing the lower waterworks and opening the Red-Rust Valve Chamber, they reached a broken service rise beneath the keep. Red-gold light pulses through the stone, and heavy movement waits in the halls above.
+The five active companions have completed Redmark Keep, delivered its red-gold fragment to Elaris, and reached level 5. They are now in Waymark Crossing during an organized raid. After saving the Lower Road and Supply Shed, the party is heading toward Mercy House on the road to the Farstep Works.

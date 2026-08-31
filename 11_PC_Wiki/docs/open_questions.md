@@ -29,14 +29,22 @@ These are player-facing mysteries the party may want to remember.
 * Why are gnolls and the Red Banner both fighting for the same roads?
 * What do the red cloth markers mean?
 * Who or what is the Red Banner authority called **Command**?
-* Why are both forces fighting for Redmark Keep itself?
-* What lies in the command halls above the broken service rise?
-* What is causing the red-gold pulse running through Redmark's lower stonework?
+* What will happen to the remaining Red Banner and gnoll forces now that the Redmaw Tyrant is dead and the fragment is gone?
 * What made the payroll-and-relief detail try to use the lower waterworks when Redmark fell?
-* What is the heavy movement waiting above the culvert route?
+
+## Waymark Crossing and Farstep Works
+
+* Why are the mine's routes shifting, looping, and connecting to the wrong places?
+* What is the movement-linked relic Elaris suspects is below Farstep Works?
+* Who are the ash-white-eye-marked raiders?
+* Why do they want witnesses, names, records, maps, route tools, and mine access?
+* What do the captured raider and the escaped attackers know?
+* Who is sheltering at Mercy House?
+* How far has the mine's instability spread?
 
 ## The Deneith Brothers
 
 * Why did Seraphine summon Leonidus and Rhaegar to the Northern Reaches?
 * Where is she now?
 * Why did she erase nearly every trace of her life before disappearing?
+* What will Elaris's contacts discover about her?

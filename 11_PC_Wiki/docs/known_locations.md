@@ -58,4 +58,22 @@ The lower works connect to Redmark's old command infrastructure. A three-valve p
 
 The party's Arc 2 destination: an old ruin near Brindleford connected to caravan attacks, missing supplies, gnoll violence, and disciplined Red Banner activity.
 
-The party entered the keep through its forgotten Drainage Culvert, bypassing the guarded western gate. Red-gold energy grows stronger in the lower stonework, but the reason the Red Banner and gnolls value the ruin remains unclear.
+The party entered the keep through its forgotten Drainage Culvert, bypassed the guarded western gate, and defeated the Redmaw Tyrant at a damaged War Altar. They freed the red-gold gemstone fragment trapped there and escaped through an eastern drainage route as the command vault began to fail.
+
+## Waymark Crossing
+
+A mine-dependent town built around the Farstep Works. When the party arrived, empty ore carts, injured travelers, hungry residents, and fleeing groups showed how badly the mine's failure had damaged the town.
+
+Waymark was under attack by organized raiders marked with ash-white paint around one eye. The party saved the Lower Road and Supply Shed and is continuing uphill toward the mine.
+
+## Waymark Supply Shed
+
+A store of rope, lamps, oil, climbing equipment, and other tools needed by Farstep Works. Raiders were preparing oil, pitch, smoke, black powder, and demolition materials here until the party stopped them.
+
+## Mercy House
+
+Waymark's house of healing, located on the road toward Farstep Works. Townsfolk believe survivors and healers may be sheltering there. The party has been directed toward it but has not arrived yet.
+
+## Farstep Works
+
+The crystal mine that supports Waymark Crossing. Its routes have begun shifting, looping, and leading miners somewhere other than expected. Elaris suspects the disturbance may be connected to movement and space.
