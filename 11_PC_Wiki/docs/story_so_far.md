@@ -156,4 +156,14 @@ At the Lower Road, the party saved pinned guards and townsfolk, recovered the co
 
 The Horn of Blasting survived its first use but exploded on the second, badly injuring its user and destroying itself. The party still won the fight and saved the mine supplies.
 
-The group is now heading toward Mercy House on the road to the Farstep Works.
+With the containment case hidden safely away, the party followed Mercy Road through a town still coughing smoke and running on fear. The raiders had expected to catch them in the open, but a watchful scout found the trap before it sprang. Steel and magic settled the ambush, leaving scattered valuables in the road and one frightened enemy running uphill toward the mine.
+
+Mercy House stood at the bend like a last safe light, its doors barricaded against attackers already worrying at the back entrance. The party drove them off before they could break through. Inside, Caldus Venn gave the exhausted group time to breathe and heal, then told them where the raiders had gone: toward Farstep Works with prisoners, records, oil, and the tools needed to force a way below.
+
+At the mine gate, the party broke the last of the raider line, but their arcanist slipped into the dark and brought down the entrance braces behind the retreat.
+
+#### Into the Farstep Works
+
+By the time the way was cleared and the party had rested, the mine was waiting: a place where old passages no longer trusted their maps. Chalk marks led past a stripped Survey Gallery and into a blue crystal seam, where the party gathered pale dust that seemed to remember a route.
+
+Those marks finally led to the missing shift. Three miners were alive in an old work pocket, held there by an Umber Hulk far from any place it should have been. The fight was brutal, but the monster fell. When the echoes faded, the party stood among the survivors with the deeper mine still ahead and the miners' story still untold.

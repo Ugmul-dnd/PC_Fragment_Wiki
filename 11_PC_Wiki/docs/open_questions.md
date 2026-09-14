@@ -39,7 +39,9 @@ These are player-facing mysteries the party may want to remember.
 * Who are the ash-white-eye-marked raiders?
 * Why do they want witnesses, names, records, maps, route tools, and mine access?
 * What do the captured raider and the escaped attackers know?
-* Who is sheltering at Mercy House?
+* What happened to the people the raiders took deeper into Farstep Works?
+* What can the three trapped miners tell the party about the Upper Works and the raiders' route?
+* Why are dangerous creatures appearing in the upper mine?
 * How far has the mine's instability spread?
 
 ## The Deneith Brothers

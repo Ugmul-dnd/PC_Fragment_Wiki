@@ -64,7 +64,7 @@ The party entered the keep through its forgotten Drainage Culvert, bypassed the 
 
 A mine-dependent town built around the Farstep Works. When the party arrived, empty ore carts, injured travelers, hungry residents, and fleeing groups showed how badly the mine's failure had damaged the town.
 
-Waymark was under attack by organized raiders marked with ash-white paint around one eye. The party saved the Lower Road and Supply Shed and is continuing uphill toward the mine.
+Waymark was under attack by organized raiders marked with ash-white paint around one eye. The party saved the Lower Road, Supply Shed, and Mercy House, then pushed the raiders back toward the mine.
 
 ## Waymark Supply Shed
 
@@ -72,8 +72,18 @@ A store of rope, lamps, oil, climbing equipment, and other tools needed by Farst
 
 ## Mercy House
 
-Waymark's house of healing, located on the road toward Farstep Works. Townsfolk believe survivors and healers may be sheltering there. The party has been directed toward it but has not arrived yet.
+Waymark's house of healing, located on the road toward Farstep Works. The party drove raiders away from its back door and met Caldus Venn, one of the healers sheltering there.
 
 ## Farstep Works
 
 The crystal mine that supports Waymark Crossing. Its routes have begun shifting, looping, and leading miners somewhere other than expected. Elaris suspects the disturbance may be connected to movement and space.
+
+The party entered through the cleared gate after the raiders collapsed the entrance braces during their retreat. In the Upper Works, the group has marked its route with chalk, found the Survey Gallery stripped of useful supplies, and reached a work pocket holding three trapped miners.
+
+## Blue Seam Cut
+
+A blue crystal cut in the Upper Works. The party recovered two bags of pale Blue-Seam Dust here, a material that helps keep a route clear and easier to follow.
+
+## Missing Shift Work Pocket
+
+An older side-work pocket where the party found three missing miners alive. An Umber Hulk had trapped them there; the party defeated it, but has not yet spoken with or escorted the miners out.

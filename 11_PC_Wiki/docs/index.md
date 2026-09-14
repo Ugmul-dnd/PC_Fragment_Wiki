@@ -18,4 +18,4 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The five active companions have completed Redmark Keep, delivered its red-gold fragment to Elaris, and reached level 5. They are now in Waymark Crossing during an organized raid. After saving the Lower Road and Supply Shed, the party is heading toward Mercy House on the road to the Farstep Works.
+The five active companions have completed Redmark Keep, delivered its red-gold fragment to Elaris, and reached level 5. They have broken the surface raid in Waymark Crossing, entered the Farstep Works, and defeated an Umber Hulk at the trapped miners' work pocket. Three miners are alive there, and the party has not yet spoken with or escorted them out.
