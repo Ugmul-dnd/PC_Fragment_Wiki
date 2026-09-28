@@ -166,4 +166,10 @@ At the mine gate, the party broke the last of the raider line, but their arcanis
 
 By the time the way was cleared and the party had rested, the mine was waiting: a place where old passages no longer trusted their maps. Chalk marks led past a stripped Survey Gallery and into a blue crystal seam, where the party gathered pale dust that seemed to remember a route.
 
-Those marks finally led to the missing shift. Three miners were alive in an old work pocket, held there by an Umber Hulk far from any place it should have been. The fight was brutal, but the monster fell. When the echoes faded, the party stood among the survivors with the deeper mine still ahead and the miners' story still untold.
+Those marks finally led to the missing shift. Three miners were alive in an old work pocket, held there by an Umber Hulk far from any place it should have been. The fight was brutal, but the monster fell.
+
+The miners had hidden from the raiders rather than being taken prisoner. Their foreman, Celia, and the two other survivors followed the party's chalked route back toward Waymark after the group treated the miner with a crushed leg. A cache in the pocket yielded healing supplies, a *spell scroll of dancing lights*, and another piece of Resonant blue crystal.
+
+At a sabotaged lift, a frightened voice seemed to move from place to place with the mine itself. The party could not reach its source, but recovered a self-repairing Rope of Mending from the collapsed shaft. A wrong-cave breach then opened in the route, bringing gricks and darkmantles into the mine. The party defeated them and pressed on.
+
+The deeper trail ended at a raider barracks and staging ground. The party cleared it, rested, and found a map showing prisoners farther ahead, followed by a larger headquarters. The prisoners and the arcanist who escaped into the mine are still ahead.

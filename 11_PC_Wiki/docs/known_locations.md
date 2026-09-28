@@ -78,7 +78,7 @@ Waymark's house of healing, located on the road toward Farstep Works. The party 
 
 The crystal mine that supports Waymark Crossing. Its routes have begun shifting, looping, and leading miners somewhere other than expected. Elaris suspects the disturbance may be connected to movement and space.
 
-The party entered through the cleared gate after the raiders collapsed the entrance braces during their retreat. In the Upper Works, the group has marked its route with chalk, found the Survey Gallery stripped of useful supplies, and reached a work pocket holding three trapped miners.
+The party entered through the cleared gate after the raiders collapsed the entrance braces during their retreat. In the Upper Works, the group marked its route with chalk, found the Survey Gallery stripped of useful supplies, and rescued three miners from an old work pocket. Deeper in, the party found a raider barracks and learned that prisoners are being held ahead.
 
 ## Blue Seam Cut
 
@@ -86,4 +86,12 @@ A blue crystal cut in the Upper Works. The party recovered two bags of pale Blue
 
 ## Missing Shift Work Pocket
 
-An older side-work pocket where the party found three missing miners alive. An Umber Hulk had trapped them there; the party defeated it, but has not yet spoken with or escorted the miners out.
+An older side-work pocket where the party found three missing miners alive. An Umber Hulk had trapped them there; the party defeated it, stabilized an injured miner, and sent the shift back toward Waymark along the party's marked route.
+
+## Split Lift
+
+A ruined vertical lift chamber in the Upper Works. Raiders sabotaged the platform and collapsed the shaft. A frightened voice seemed to come from shifting locations around it, and the party recovered a self-repairing Rope of Mending from the wreckage.
+
+## Raider Barracks
+
+A former storage and supply space repurposed as a raider staging ground. The party cleared it and found a map showing prisoners farther ahead, followed by a larger headquarters.

@@ -40,7 +40,9 @@ These are player-facing mysteries the party may want to remember.
 * Why do they want witnesses, names, records, maps, route tools, and mine access?
 * What do the captured raider and the escaped attackers know?
 * What happened to the people the raiders took deeper into Farstep Works?
-* What can the three trapped miners tell the party about the Upper Works and the raiders' route?
+* Who are the prisoners shown on the raiders' barracks map, and how can they be freed safely?
+* What is the larger headquarters area beyond the prisoner location?
+* Who was calling for help around the sabotaged Split Lift, and where are they now?
 * Why are dangerous creatures appearing in the upper mine?
 * How far has the mine's instability spread?
 

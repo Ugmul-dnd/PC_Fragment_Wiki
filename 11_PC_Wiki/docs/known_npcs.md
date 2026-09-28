@@ -8,6 +8,7 @@
 |Tovin Reed|Elaris's cheerful and capable carriage driver. He waited outside the Silent Coin Tavern for three days, later drove the party toward Waymark Crossing, and was guarding the bound raider captured at the Lower Road when the party entered the mine.|
 |Caldus Venn|A healer at Waymark's Mercy House. He sheltered the party after they drove off attackers at the back door, restored their strength, and warned them that the raiders had taken people and mine supplies toward Farstep Works.|
 |Marta Vennick|The steward of Farstep Works. She asked the party to enter the mine, find the trapped shift, and rescue anyone taken below.|
+|Celia|The foreman of the missing Farstep shift. Her group hid when the raiders passed through the Upper Works. The party rescued the three miners and sent them back toward Waymark.|
 |Mara Vell|A Brindleford roadwarden rescued from beneath a collapsed shrine during the battlefield crossing. The party carried her through the closing gate.|
 |Mira Fenwick|The practical caravan-yard boss in Brindleford. She explained the three known approaches to Redmark Keep and directed the party to other local contacts.|
 |Captain Orven Hale|Brindleford's tired but disciplined watch captain. He confirmed the Red Banner's road control, the gnoll presence in the low ground, and the risks of each approach.|
