@@ -18,4 +18,8 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The five active companions have completed Redmark Keep, delivered its red-gold fragment to Elaris, and reached level 5. They have broken the surface raid in Waymark Crossing, entered the Farstep Works, and defeated an Umber Hulk at the trapped miners' work pocket. Three miners are alive there, and the party has not yet spoken with or escorted them out.
+The Rift Widow has fallen. The party freed the Farstep prisoners, defeated the raider headquarters, and survived the deeper mine. The main gemstone fragment is recovered and sealed in the containment case. The boss yielded a Ring of Spell Storing and one minor Resonant Remnant.
+
+Session 12 starts with a quick recap of leaving the mines before the next adventure begins.
+
+[Read the latest session summary: Session 011](session_recaps/session_011.md).

@@ -35,13 +35,13 @@ These are player-facing mysteries the party may want to remember.
 ## Waymark Crossing and Farstep Works
 
 * Why are the mine's routes shifting, looping, and connecting to the wrong places?
-* What is the movement-linked relic Elaris suspects is below Farstep Works?
+* What will the sealed Farstep gemstone fragment reveal when it can be studied?
 * Who are the ash-white-eye-marked raiders?
 * Why do they want witnesses, names, records, maps, route tools, and mine access?
 * What do the captured raider and the escaped attackers know?
 * What happened to the people the raiders took deeper into Farstep Works?
-* Who are the prisoners shown on the raiders' barracks map, and how can they be freed safely?
-* What is the larger headquarters area beyond the prisoner location?
+* Have the freed prisoners and refuge miners reached Waymark safely?
+* What will Elaris learn from the cult retrieval orders recovered at the headquarters?
 * Who was calling for help around the sabotaged Split Lift, and where are they now?
 * Why are dangerous creatures appearing in the upper mine?
 * How far has the mine's instability spread?

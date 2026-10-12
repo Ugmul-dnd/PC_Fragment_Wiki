@@ -95,3 +95,7 @@ A ruined vertical lift chamber in the Upper Works. Raiders sabotaged the platfor
 ## Raider Barracks
 
 A former storage and supply space repurposed as a raider staging ground. The party cleared it and found a map showing prisoners farther ahead, followed by a larger headquarters.
+
+## Deeper Farstep Works
+
+Beyond the barracks, the party freed three tortured prisoners and defeated the arcanist at the raider headquarters. A hidden miners' refuge offered a safe long rest and help evacuating the injured. Below it lay misleading echo tunnels, displaced caverns, mushroom-like inhabitants, and the webbed cavern where the party defeated the Rift Widow and recovered the gemstone fragment.
