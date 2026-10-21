@@ -14,4 +14,4 @@ The Rift Widow and its allies turned the cavern into a punishing battlefield of 
 
 The main Farstep gemstone fragment was recovered and sealed in the containment case. The boss rewards were a Ring of Spell Storing, one minor Resonant Remnant, and **750 gp in lair treasure** (250 gp in coins and 500 gp in gems and valuables). Added to the 150 gp found at raider headquarters, the party received **900 gp total in Session 11**.
 
-**Next session:** The DM has told everyone to advance to **level 6**, and the party will receive a long rest on the journey back to Everlund. Session 12 will pick up with the departure from Farstep Works and the return journey.
+**Next chapter:** The party advances to **level 6** after the victory at Farstep. The journey back to Everlund will provide a long rest before the next adventure begins.
