@@ -188,7 +188,7 @@ Dangerous creatures waited farther down. After another hard fight, the party pre
 
 The Rift Widow and its allies turned the cavern into a punishing battlefield of falling webs, darkness, and sudden movement. The party kept fighting through restraints and heavy wounds until the Widow finally fell.
 
-The main Farstep gemstone fragment was recovered and sealed in the containment case. The boss rewards were a Ring of Spell Storing and one minor Resonant Remnant.
+The main Farstep gemstone fragment was recovered and sealed in the containment case. The boss rewards were a Ring of Spell Storing, one minor Resonant Remnant, and 750 gp in lair treasure (250 gp in coins and 500 gp in gems and valuables). Together with the 150 gp from raider headquarters, the party earned **900 gp during Session 11**.
 
-The party is still at the end of the mine adventure. Session 12 begins with a quick recap of leaving Farstep Works, then continues into the next arc.
+The party has been instructed by the DM to advance to **level 6**. They will receive a long rest while traveling back to Everlund. The return journey and subsequent events will be covered as Session 12 begins; they are not yet part of the played-session recap.
 
