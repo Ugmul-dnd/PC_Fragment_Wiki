@@ -34,7 +34,7 @@ Current active players: **5**
 | Leonidus Deneith | Adamantine Plate |
 | Rhaegar Phiarlan | Bracers of Archery |
 
-Party-held items also include a +1 Halberd, Candle of the Deep, Bag of Holding, **Ring of Spell Storing**, and one minor Resonant Remnant from Farstep Works. The ring's individual holder has not been recorded. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight.
+Party-held items also include a +1 Halberd, Candle of the Deep, Bag of Holding, **Ring of Spell Storing**, and one minor Resonant Remnant from Farstep Works. The ring's individual holder has not been recorded. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight.
 
 ## Familiar And Companions
 
