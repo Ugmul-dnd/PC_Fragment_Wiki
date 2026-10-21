@@ -1,6 +1,6 @@
 # Active Party
 
-Current party level: **6** (DM-approved advancement after Session 11; long rest to occur on the journey back to Everlund).
+Current party level: **6** (following the victory at Farstep Works).
 
 Current active players: **5**
 
