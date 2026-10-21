@@ -18,8 +18,8 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The Rift Widow has fallen. The party freed the Farstep prisoners, defeated the raider headquarters, and survived the deeper mine. The main gemstone fragment is recovered and sealed in the containment case. The boss yielded a Ring of Spell Storing and one minor Resonant Remnant.
+The Rift Widow has fallen. The party freed the Farstep prisoners, defeated the raider headquarters, and survived the deeper mine. The main gemstone fragment is recovered and sealed in the containment case. The boss yielded a Ring of Spell Storing, one minor Resonant Remnant, and 750 gp in lair treasure (250 gp in coins and 500 gp in gems and valuables). With the 150 gp recovered from the raider headquarters, the party earned **900 gp total in Session 11**.
 
-Session 12 starts with a quick recap of leaving the mines before the next adventure begins.
+The DM has instructed the party to advance to **level 6**, with a long rest during the journey back to Everlund. Session 12 begins with the departure from Farstep Works and that return journey before the next adventure.
 
 [Read the latest session summary: Session 011](session_recaps/session_011.md).
