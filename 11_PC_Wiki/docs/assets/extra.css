@@ -67,7 +67,7 @@
 .md-typeset .shop-inventory {
   display: grid;
   gap: 0.48rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(17rem, 100%), 1fr));
+  grid-template-columns: 1fr;
   margin-top: 0.55rem;
 }
 
