@@ -190,5 +190,25 @@ The Rift Widow and its allies turned the cavern into a punishing battlefield of 
 
 The main Farstep gemstone fragment was recovered and sealed in the containment case. The boss rewards were a Ring of Spell Storing, one minor Resonant Remnant, and 750 gp in lair treasure (250 gp in coins and 500 gp in gems and valuables). Together with the 150 gp from raider headquarters, the party earned **900 gp during Session 11**.
 
-The victory at Farstep marks the party's rise to **level 6**. With the gemstone fragment safely contained, the road back to Everlund awaits, offering a chance to rest and recover before the next chapter unfolds.
+The victory at Farstep brought the party to **level 6** and opened the road home.
+
+### Arc 4 — Gray Hollow and the Muffled Bell
+
+#### Return to Everlund
+
+Leaving the Farstep Mines, the party found that the fragment's disappearance had begun to set the strange passages right. Back at Moongleam Tower, they challenged Elaris about what the Starved Eye had said of him. Elaris insisted he wanted to reunite the fragments to heal the world's wounds and showed the group something remarkable: their latest prize fused with the gathered core, sending a wave of warmth, relief, and gratitude through the room. Whether the fragments are somehow aware remains an open question.
+
+#### Into the Mist
+
+Elaris chose to accompany the party to **Gray Hollow**, a town whose mist had shut down trade and travel. The group met a merchant who had been driven away by strange figures and unexplained bell sounds. They also found **Professor Squanchius Maximus Thee Third**, an old colleague of Elaris, and welcomed him into the expedition. When the mist finally reached their camp, ghostly Wardens attacked while Elaris kept a protective spell in place. The party fought them off but could not rest properly until daylight.
+
+On the road the next day, the adventurers helped **Marek Venn**, whose frightened horses had left him injured and stranded. At Gray Hollow's barred gate, they faced an enormous dragon made from the mist and two floating Wardens. Kal charged on horseback, suffered a terrible fall during the battle, and was brought back into the fight by his companions. Leonidus struck down the dragon. With Marek's help, the guards finally opened the gates, and the party found safety and sleep at **the Muffled Bell**.
+
+#### Current Arc — The Temple Mystery
+
+Gray Hollow is not deserted, but its people are running low on supplies. The mist repels visitors after dusk, while townspeople find themselves strangely unwilling—or unable—to leave. **Tomas Vale** wandered for hours looking for food and somehow returned to town; **Captain Orla Fen** fears the very protection keeping danger out is imprisoning everyone inside. The party keeps hearing about a mysterious bell no one can explain.
+
+**Current story position:** The party has arrived outside Gray Hollow's guarded **temple**, where faint magical wards move across the building. Brother Caldus Renn and the temple's secrets are still ahead. The party has not yet entered the temple or discovered the source of the mist.
+
+[Read Session 013's recap](session_recaps/session_013.md).
 
