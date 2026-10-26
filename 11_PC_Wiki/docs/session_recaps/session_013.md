@@ -1,0 +1,11 @@
+# Session 013 — The Road to Gray Hollow
+
+With the Farstep fragment safely contained, the mine's impossible passages finally began to settle. The party returned through Waymark Crossing and brought their discovery to Elaris in Everlund. After hearing of the Starved Eye's pursuit of the fragments and its accusations against him, Elaris invited everyone into his laboratory. There, they watched the recovered fragment join the crystalline core he had been assembling. A wave of warmth and gratitude swept over them, raising as many questions as it answered.
+
+Elaris's next concern was **Gray Hollow**, a town almost entirely cut off by supernatural mist. He chose to accompany the expedition himself. On the road, the party heard a merchant's warning about strange shapes and distant bells, then reunited with Elaris's missing colleague, **Professor Squanchius Maximus Thee Third**, who joined the group. That night, ghostly Wardens attacked from the mist while Elaris struggled to hold a protective ward around their camp. The party survived, but the long and sleepless night left them exhausted.
+
+The following afternoon they rescued **Marek Venn**, a stranded resident desperate to reach Gray Hollow before nightfall. Their arrival at the town gate brought another battle: a huge dragon formed from the mist, accompanied by floating Wardens. Kal's mount fell to the dragon's acid breath, and Kal himself was struck from the sky before his companions helped him recover. Leonidus finally brought down the dragon, and Marek called out to the guards, who opened the gate. The party found shelter and a much-needed rest at **the Muffled Bell**.
+
+In the morning, they discovered a town running out of food and hope. Innkeeper **Hessa Brant** explained that travel and trade had nearly ceased, while **Tomas Vale** described trying to find provisions only to wander back to town with much of the night missing from his memory. **Captain Orla Fen** shared her fear that Gray Hollow's protection was slowly becoming a prison. These accounts pointed toward the old temple, now guarded and difficult to enter.
+
+**Where we stopped:** The party stands outside **Gray Hollow's temple**, facing its guarded entrance and faintly glowing ward lines. The investigation continues next session.
