@@ -2,7 +2,7 @@
 
 Current party level: **6** (following the victory at Farstep Works).
 
-Current active players: **5**
+Current party on the Gray Hollow expedition: **5** (Rhaegar is temporarily away on a separate assignment)
 
 | Player | Character | Class |
 |---|---|---|
@@ -10,7 +10,9 @@ Current active players: **5**
 | Brad | Kal Kholin | Aasimar Paladin, Oath of Vengeance |
 | Stephen | Aiaia Dulcinea | Tiefling Warlock, Archfey |
 | Isaiah Larned | Leonidus Deneith | Human Fighter, Eldritch Knight |
-| Dante | Rhaegar Phiarlan | Human Ranger, Fey Wanderer |
+| Chris | Professor Squanchius Maximus Thee Third | Human Wizard, Evoker |
+
+**Temporarily away:** Rhaegar Phiarlan (Dante), Human Ranger, Fey Wanderer. His character remains part of the wider party story, but did not travel to Gray Hollow this session.
 
 ## Party Notes
 
@@ -23,6 +25,9 @@ Current active players: **5**
 - The party defeated a Red Banner patrol that tried to arrest them on the road.
 - The party defeated the Redmaw Tyrant, recovered the Redmark fragment, and delivered it to Elaris.
 - The party reached Waymark Crossing during an organized raid and saved the Lower Road and Supply Shed.
+- The group recovered the Farstep fragment and witnessed it merge with Elaris's gathered core.
+- Professor Squanchius, an established colleague of Elaris, joined the party on the way to Gray Hollow.
+- The current party rests at the Muffled Bell and is investigating Gray Hollow's guarded temple.
 
 ## Current Notable Gear
 
@@ -34,7 +39,7 @@ Current active players: **5**
 | Leonidus Deneith | Adamantine Plate |
 | Rhaegar Phiarlan | Bracers of Archery |
 
-Party-held items also include a +1 Halberd, Candle of the Deep, Bag of Holding, **Ring of Spell Storing**, and one minor Resonant Remnant from Farstep Works. The ring's individual holder has not been recorded. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight.
+Party-held items also include a +1 Halberd, Candle of the Deep, Bag of Holding, **Ring of Spell Storing**, and one minor Resonant Remnant from Farstep Works. Aiaia used the ring for stored healing spells during the Gray Hollow journey; its current stored spells should be checked with the player. The Horn of Blasting recovered at Redmark was destroyed when it exploded during the Waymark Supply Shed fight.
 
 ## Familiar And Companions
 
