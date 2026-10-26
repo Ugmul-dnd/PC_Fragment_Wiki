@@ -18,8 +18,8 @@ This wiki is here to help the party remember the story, people, places, clues, a
 
 ## Current Table Position
 
-The Rift Widow has fallen. The party freed the Farstep prisoners, defeated the raider headquarters, and survived the deeper mine. The main gemstone fragment is recovered and sealed in the containment case. The boss yielded a Ring of Spell Storing, one minor Resonant Remnant, and 750 gp in lair treasure (250 gp in coins and 500 gp in gems and valuables). With the 150 gp recovered from the raider headquarters, the party earned **900 gp total in Session 11**.
+**Arc 4 — Gray Hollow.** The party has returned from Farstep, witnessed the latest fragment merge with Elaris's gathered core, and reached **level 6**. Professor Squanchius has joined the expedition to Gray Hollow.
 
-With the Farstep victory, the party has reached **level 6**. Their journey back to Everlund will allow for a long rest as the next adventure begins.
+After surviving attacks by mist-born Wardens and a spectral dragon at the town gate, the party found refuge in **the Muffled Bell**. Gray Hollow is struggling with dwindling supplies and a supernatural mist that keeps strangers out and residents in. The group has spoken with Tomas Vale and Captain Orla Fen and is now **outside the guarded temple**, ready to continue its investigation.
 
-[Read the latest session summary: Session 011](session_recaps/session_011.md).
+[Read the latest session summary: Session 013](session_recaps/session_013.md).
