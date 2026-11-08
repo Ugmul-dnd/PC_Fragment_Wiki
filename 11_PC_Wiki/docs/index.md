@@ -13,6 +13,7 @@ This wiki is here to help the party remember the story, people, places, clues, a
 |[Known NPCs](known_npcs.md)|People and figures the party has met or heard about.|
 |[Known Locations](known_locations.md)|Places the party has visited or learned about.|
 |[Everlund Shops](everlund_shops.md)|Player-facing shopkeepers and current public inventory in Everlund.|
+|[Crafting](crafting.md)|Resonant Remnant costs, equipment upgrades, damage riders, and healing improvements.|
 |[Open Questions](open_questions.md)|Mysteries the party may want to follow up on.|
 |[Session Recaps](session_recaps/session_001.md)|Session-by-session memory aid.|
 
