@@ -9,10 +9,10 @@ Current party on the Gray Hollow expedition: **5** (Rhaegar is temporarily away 
 | Cynthia | Wazeau deLierre | Wood Elf Druid, Circle of Stars |
 | Brad | Kal Kholin | Aasimar Paladin, Oath of Vengeance |
 | Stephen | Aiaia Dulcinea | Tiefling Warlock, Archfey |
-| Isaiah Larned | Leonidus Deneith | Human Fighter, Eldritch Knight |
+| Isaiah | Leonidus Deneith | Human Fighter, Battle Master |
 | Chris | Professor Squanchius Maximus Thee Third | Human Wizard, Evoker |
 
-**Temporarily away:** Rhaegar Phiarlan (Dante), Human Ranger, Fey Wanderer. His character remains part of the wider party story, but did not travel to Gray Hollow this session.
+**Inactive:** Rhaegar Phiarlan (Dante), Human Ranger, Gloom Stalker. His character remains part of the wider party story but is not in the current active party.
 
 ## Party Notes
 
@@ -27,7 +27,8 @@ Current party on the Gray Hollow expedition: **5** (Rhaegar is temporarily away 
 - The party reached Waymark Crossing during an organized raid and saved the Lower Road and Supply Shed.
 - The group recovered the Farstep fragment and witnessed it merge with Elaris's gathered core.
 - Professor Squanchius, an established colleague of Elaris, joined the party on the way to Gray Hollow.
-- The current party rests at the Muffled Bell and is investigating Gray Hollow's guarded temple.
+- The party survived the temple extraction and the Muffled Bell siege; Thalira escorted the injured Elaris away with the newly extracted Gray Hollow fragment.
+- The current party is sheltered at the Muffled Bell and resumes the next morning. The previously gathered fragment core remains secured in Elaris's warded travel case in the carriage.
 
 ## Current Notable Gear
 
