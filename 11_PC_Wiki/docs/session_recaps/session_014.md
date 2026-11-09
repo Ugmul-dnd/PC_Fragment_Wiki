@@ -1,0 +1,11 @@
+# Session 014 Player Recap — The Night Gray Hollow Went Dark
+
+The search for Gray Hollow's missing protection led to its ancient temple. Brother Caldus stood fast against outsiders disturbing the altar, but a discreet look inside confirmed what the party feared: one of the strange fragments was built into the very heart of the chapel. Elaris's research suggested that a blessing meant to protect the town had become its prison. At dusk, Caldus reluctantly opened the doors.
+
+Elaris began separating the fragment from the altar, and the chapel fought back. Golden ward-lines struck through the floor, split the masonry, and bound the defenders in place. Then a mysterious woman appeared. Elaris knew her as **Thalira**; she knew he was gathering the fragments and warned him not to continue. The final seam broke anyway. The fragment came free, Elaris was badly wounded, and suffocating black darkness swallowed the chapel. Something enormous hunted unseen in the dark until **Wazeau's Daylight** lit the room and exposed the monsters. Together with Thalira's unexpected help, the party survived and escaped the collapsing ward-system.
+
+They reached the **Muffled Bell** with Elaris alive but seriously weakened. His magic was failing him, and ordinary healing could not mend the strange injury. After a brief respite, the black vapor swallowed the streets, climbed the walls, and burst through the inn's windows. The group held the building against successive waves of armored shadows and long-clawed brutes, keeping its terrified occupants alive.
+
+Then Thalira broke into the upper floor and led Elaris out through the darkness. **Aiaia refused to simply let them vanish**, teleporting into Thalira's brilliant protective magic and boldly taunting her—only to discover firsthand how dangerous that ward could be. A tense exchange followed. Thalira insisted she was taking Elaris somewhere safe, and he went with her willingly. Aiaia returned to the inn suspicious but alive.
+
+The remaining defenders sealed the battered building against the night. Outside, Gray Hollow lay under a sea of blackness, and unseen shapes moved through its streets. **The party's next chapter begins at dawn**, with Elaris gone, the temple in ruins, and more questions than answers about Thalira and the power beneath the town.
