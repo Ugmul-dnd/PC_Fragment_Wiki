@@ -1,6 +1,6 @@
 # Session 014 Player Recap — The Night Gray Hollow Went Dark
 
-The search for Gray Hollow's missing protection led to its ancient temple. Brother Caldus stood fast against outsiders disturbing the altar, but a discreet look inside confirmed what the party feared: one of the strange fragments was built into the very heart of the chapel. Elaris's research suggested that a blessing meant to protect the town had become its prison. At dusk, Caldus reluctantly opened the doors.
+The search for the fragment led the party to Gray Hollow's ancient temple. Brother Caldus stood fast against outsiders disturbing the altar, but a discreet look inside confirmed what the party feared: one of the strange fragments was built into the very heart of the chapel. Elaris's research suggested that a blessing meant to protect the town had become its prison. At dusk, Caldus reluctantly opened the doors.
 
 Elaris began separating the fragment from the altar, and the chapel fought back. Golden ward-lines struck through the floor, split the masonry, and bound the defenders in place. Then a mysterious woman appeared. Elaris knew her as **Thalira**; she knew he was gathering the fragments and warned him not to continue. The final seam broke anyway. The fragment came free, Elaris was badly wounded, and suffocating black darkness swallowed the chapel. Something enormous hunted unseen in the dark until **Wazeau's Daylight** lit the room and exposed the monsters. Together with Thalira's unexpected help, the party survived and escaped the collapsing ward-system.
 
