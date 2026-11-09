@@ -204,11 +204,14 @@ Elaris chose to accompany the party to **Gray Hollow**, a town whose mist had sh
 
 On the road the next day, the adventurers helped **Marek Venn**, whose frightened horses had left him injured and stranded. At Gray Hollow's barred gate, they faced an enormous dragon made from the mist and two floating Wardens. Kal charged on horseback, suffered a terrible fall during the battle, and was brought back into the fight by his companions. Leonidus struck down the dragon. With Marek's help, the guards finally opened the gates, and the party found safety and sleep at **the Muffled Bell**.
 
-#### Current Arc — The Temple Mystery
+#### The Temple and the Black Night
 
-Gray Hollow is not deserted, but its people are running low on supplies. The mist repels visitors after dusk, while townspeople find themselves strangely unwilling—or unable—to leave. **Tomas Vale** wandered for hours looking for food and somehow returned to town; **Captain Orla Fen** fears the very protection keeping danger out is imprisoning everyone inside. The party keeps hearing about a mysterious bell no one can explain.
+The party's investigation brought them to **Brother Caldus Renn**, who believed the temple's wards still safeguarded Gray Hollow even as the town ran short of food. He initially denied entry, but **Nugget** slipped inside and discovered an active fragment embedded in the altar. Elaris's research confirmed that the protection had grown into a prison. When the party returned at dusk, Caldus reluctantly let them through.
 
-**Current story position:** The party has arrived outside Gray Hollow's guarded **temple**, where faint magical wards move across the building. Brother Caldus Renn and the temple's secrets are still ahead. The party has not yet entered the temple or discovered the source of the mist.
+The attempt to free the fragment shook the chapel. Pale-gold ward-lines burst through the stone, shattered masonry, and held adventurers in place. A mysterious woman named **Thalira** appeared, clearly known to Elaris, and warned him to stop. The fragment broke loose, leaving Elaris wounded and the chapel filled with unnatural black darkness. **Wazeau's Daylight** revealed the creatures lurking inside, and the party fought through them with unexpected assistance from Thalira.
 
-[Read Session 013's recap](session_recaps/session_013.md).
+Back at **the Muffled Bell**, Elaris's injury resisted ordinary magical healing. After a short rest, the gathering darkness surged into the inn, and the adventurers defended its occupants against armored shadows and clawed brutes. Thalira broke through an upper wall and escorted a willing but weakened Elaris away with **the newly recovered fragment**. **Aiaia** pursued her through the darkness, teleported into her protective ward, and boldly taunted her. Aiaia survived the ward's radiant backlash and questioned Thalira, who insisted she was helping Elaris reach safety. The party's previously gathered fragment core was **not** taken with them.
 
+**Current story position:** The party has survived the Muffled Bell siege and sheltered there through the night. Gray Hollow's temple is ruined, the streets have been swallowed by darkness, and Elaris and Thalira are gone. The next chapter begins **the following morning**.
+
+[Read Session 014's recap](session_recaps/session_014.md).
