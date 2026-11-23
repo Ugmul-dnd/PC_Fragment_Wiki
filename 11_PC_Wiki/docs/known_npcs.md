@@ -6,7 +6,7 @@ A quick reference to recurring contacts and people involved in the current Gray 
 
 | Name | What the Party Knows |
 |---|---|
-| **Elaris Vaunthel** | The party's scholar contact in Everlund and a source of fragment research, containment, and crafting help. The party witnessed the Farstep fragment join his gathered crystalline core. He accompanied them to Gray Hollow, protected their camp, supplied the struggling inn, and is investigating the town's wards. He also promised to investigate Seraphine's disappearance. |
+| **Elaris Vaunthel** | The party's scholar contact in Everlund and a source of fragment research, containment, and crafting help. The party witnessed the Farstep fragment join his gathered crystalline core. He accompanied them to Gray Hollow, protected their camp, supplied the struggling inn, and is investigating the town's wards. He also promised to investigate Seraphine's disappearance. In Gray Hollow he was gravely injured while extracting the temple fragment. The party later found him recovering in Thalira's sanctuary and learned the two worked together long ago; Elaris plans to keep gathering fragments despite her objections. |
 | **Tovin Reed** | Elaris's cheerful, capable carriage driver and a familiar contact from the party's earlier expeditions. |
 
 ## Gray Hollow — Current Contacts
@@ -19,3 +19,10 @@ A quick reference to recurring contacts and people involved in the current Gray 
 | **Marek Venn** | An injured resident rescued on the road to Gray Hollow. He urged the group to reach town before dark and persuaded the gate guards to admit them after the battle. |
 
 Professor Squanchius Maximus Thee Third, Elaris's colleague who joined the expedition, is listed with the player characters on the [Party page](party.md).
+
+
+## Thalira — The Warden
+
+**Thalira** aided the party during the temple disaster and then escorted injured Elaris to a hidden sanctuary beneath Gray Hollow. She has maintained that ancient home for a long time and was once close to Elaris; they worked together in the distant past. She has sealed the newly recovered Gray Hollow fragment and opposes his plan to gather and reunite fragments. At the Session 15 cliffhanger, she told the party to leave and summoned a protective armored spirit.
+
+[Read what the party overheard between Elaris and Thalira](thalira_elaris_conversation.md).
