@@ -1,6 +1,6 @@
 # Elaris and Thalira — Old Friends, Unfinished Wounds
 
-*What the party overheard during Session 015. This is a player-safe **summary**, not a word-for-word transcript.*
+*A recap of the conversation overheard during Session 15.*
 
 [← Back to Session 015](session_recaps/session_015.md)
 
@@ -42,4 +42,3 @@ Thalira discovered the party was listening. She took the sealed fragment, armed 
 
 What happened when Elaris and Thalira worked together? What promise do they remember? What has Elaris not yet told the party? Can the fragments truly heal the world's wounds—and at what risk?
 
-*Nothing here reveals events after the Session 15 stopping point.*
