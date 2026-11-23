@@ -218,8 +218,8 @@ The morning after the inn siege, the mist had lifted. The party retrieved the po
 
 They fought a Cloaker and two Hook Horrors beneath great hanging bells. In the root-choked chambers, two Shambling Mounds guarded a cache containing a Luckstone, Sending Stones, and healing potions. Two great Warden Guardians barred the inner gateway; once defeated, the party entered clean, lived-in halls rather than abandoned ruins.
 
-They overheard Elaris and Thalira speak like long-time friends with a painful disagreement. He believes the fragments can help heal wounded places and intends to gather them; she fears the cost and refuses to surrender the sealed Gray Hollow fragment. She urged Elaris to tell the party more of their shared past. When she noticed they were listening, she armed herself and summoned a protective celestial guardian.
+They overheard Elaris and Thalira speak like long-time friends with a painful disagreement. He believes the fragments can help heal wounded places and intends to gather them; she fears the cost and refuses to surrender the sealed Gray Hollow fragment. She urged Elaris to tell the party more of their shared past. When she realized they were listening, Thalira confronted the party and demanded that they leave Elaris behind and abandon their quest. She made it clear she was prepared to fight to drive them away.
 
-**Current story position:** Inside Thalira's sanctuary immediately before the confrontation. The first guardian is summoned, but initiative has not been rolled. The party remains level 6.
+**Current story position:** Deep within Thalira's sanctuary, the party faces a serious threat from Thalira herself. The confrontation is turning into combat, with Elaris still injured nearby. The party remains level 6.
 
 [Read Session 015's recap](session_recaps/session_015.md) · [Revisit Elaris and Thalira's conversation](thalira_elaris_conversation.md).
