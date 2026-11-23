@@ -20,11 +20,11 @@ Thalira believed he had felt something real. She did not agree that he understoo
 
 ## A shared history
 
-Elaris was surprised that Thalira had made a life in the sanctuary, watching the town above change over time. He called her **“Still the Warden.”** They remembered a promise they had once taken seriously.
+As Elaris looked around the sanctuary, he realized how long Thalira had lived there, quietly caring for the place and watching Gray Hollow change above her. He hadn't known she had made a home beneath the town. **“Still the Warden,”** he remarked—a familiar acknowledgment that she had never stopped protecting what she could. Thalira answered that she wouldn't know how to stop. When Elaris recalled how seriously she had always taken their promise, she gently reminded him: **“We both did.”**
 
-Thalira asked how much Elaris had told his companions **about himself**. He admitted that he had told them only part of the story. He had not explained that **he and Thalira once worked together**, nor how far back their connection reached.
+Their shared past soon became harder to avoid. Thalira wanted to know how much Elaris had told the adventurers who were following him. He admitted he had told them only part of his story—and **had never mentioned that he and Thalira had once worked together**, or how far back their history went.
 
-She told him he needed to find the words. When he asked where to begin, she answered: **“With what you remember.”** He understood, but said nothing more.
+Thalira urged him to be honest with his companions. Elaris struggled with where to begin, and her answer was simple: **“With what you remember.”** He understood what she was asking, but could not yet bring himself to say more.
 
 ## The disagreement over the stone
 
