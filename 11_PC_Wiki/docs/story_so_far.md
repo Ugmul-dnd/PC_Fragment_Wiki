@@ -212,6 +212,14 @@ The attempt to free the fragment shook the chapel. Pale-gold ward-lines burst th
 
 Back at **the Muffled Bell**, Elaris's injury resisted ordinary magical healing. After a short rest, the gathering darkness surged into the inn, and the adventurers defended its occupants against armored shadows and clawed brutes. Thalira broke through an upper wall and escorted a willing but weakened Elaris away with **the newly recovered fragment**. **Aiaia** pursued her through the darkness, teleported into her protective ward, and boldly taunted her. Aiaia survived the ward's radiant backlash and questioned Thalira, who insisted she was helping Elaris reach safety. The party's previously gathered fragment core was **not** taken with them.
 
-**Current story position:** The party has survived the Muffled Bell siege and sheltered there through the night. Gray Hollow's temple is ruined, the streets have been swallowed by darkness, and Elaris and Thalira are gone. The next chapter begins **the following morning**.
+#### Below the Temple — Warden's Hollow
 
-[Read Session 014's recap](session_recaps/session_014.md).
+The morning after the inn siege, the mist had lifted. The party retrieved the portable warded case holding the gathered fragment core from Tovin's carriage, followed Thalira's tracks into a concealed passage beneath the ruined temple, and discovered an older underground complex. Elaris had walked beside Thalira willingly, though gravely injured.
+
+They fought a Cloaker and two Hook Horrors beneath great hanging bells. In the root-choked chambers, two Shambling Mounds guarded a cache containing a Luckstone, Sending Stones, and healing potions. Two great Warden Guardians barred the inner gateway; once defeated, the party entered clean, lived-in halls rather than abandoned ruins.
+
+They overheard Elaris and Thalira speak like long-time friends with a painful disagreement. He believes the fragments can help heal wounded places and intends to gather them; she fears the cost and refuses to surrender the sealed Gray Hollow fragment. She urged Elaris to tell the party more of their shared past. When she noticed they were listening, she armed herself and summoned a protective celestial guardian.
+
+**Current story position:** Inside Thalira's sanctuary immediately before the confrontation. The first guardian is summoned, but initiative has not been rolled. The party remains level 6.
+
+[Read Session 015's recap](session_recaps/session_015.md) · [Revisit Elaris and Thalira's conversation](thalira_elaris_conversation.md).
