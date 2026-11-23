@@ -52,3 +52,12 @@ These are player-facing mysteries the party may want to remember.
 * Where is she now?
 * Why did she erase nearly every trace of her life before disappearing?
 * What will Elaris's contacts discover about her?
+
+## Gray Hollow and the Wardens
+
+* What were the ancient Wardens protecting or containing beneath Gray Hollow?
+* Why did the oppressive mist and the temple's familiar protective feeling disappear?
+* What is Thalira's shared history with Elaris?
+* What did she mean when she asked him to begin with what he remembers?
+* Can gathering the fragments heal the world without creating something worse?
+* What will happen when the party confronts Thalira in her own sanctuary?

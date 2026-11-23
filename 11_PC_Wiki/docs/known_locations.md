@@ -18,7 +18,11 @@ Hessa Brant's inn and the party's current lodging. The group recovered here afte
 
 An old temple with restricted entry, two guards, and faintly glowing ward lines. Accounts from Tomas Vale and Captain Orla Fen drew the party's attention here.
 
-**Current position:** Outside the temple entrance. The party has not yet entered or established what lies inside.
+**Current understanding:** The temple's altar and ancient wards were shattered during Elaris's extraction. By morning, the unnatural pressure had lifted. A concealed passage beneath the broken floor led the party into Warden's Hollow.
+
+### Warden's Hollow
+
+A vast underground complex beneath Gray Hollow's ruined temple. The party passed ancient Bell Vaults, old shelters, root-covered containment chambers, and a gateway defended by Warden Guardians. Beyond the gate, the halls were carefully maintained and clearly inhabited. **Thalira's inner sanctuary** lies here, where the group found her tending injured Elaris and sealing the temple fragment.
 
 ## Everlund — Home Base
 
